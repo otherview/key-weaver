@@ -1,0 +1,1 @@
+export { extractIdentityClaim } from './adapters.js';
